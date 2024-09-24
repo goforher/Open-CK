@@ -22,9 +22,9 @@
 # Dataset Visualization
 <p align="center">
     <br>
-    <img src="image/10MW-3fire-2windDirection-3ms.png"/>
+    <img src="../image/10MW-3fire-2windDirection-3ms.png"/>
     <br>
 <p>
 
 # Download
-<a href="https://drive.google.com/drive/folders/1kd6z_HsaO_YHdOMjFVp59SORWlGwL3Jb?usp=sharing">Open-CK</a>&nbsp ｜ &nbsp
+<a href="https://drive.google.com/drive/folders/1kd6z_HsaO_YHdOMjFVp59SORWlGwL3Jb?usp=sharing">Open-CK</a>
