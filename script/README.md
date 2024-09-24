@@ -1,0 +1,5 @@
+我们提供了三种脚本，分别为csv文件转换为npy文件的csv2npy.py、读取npy文件的readData.py、对npy文件进行可视化的imgshow.py
+
+主要涉及到的python依赖包有这些：numpy、matplotlib、pandas
+
+如果你需要使用这些脚本，只需更改其中的文件路径以及目录路径即可
