@@ -1,4 +1,4 @@
-## Table 1: Summary of Open-CK
+## Table : Summary of Open-CK
 
 **NIS**: Number of Ignition Sources  
 **SIS**: Single Ignition Source  
