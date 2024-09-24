@@ -25,7 +25,7 @@ __Open-CK__
 <br><br>
 
 ## Project Structure
-'''
+```
 Open-CK/
 ├── README.md
 ├── README-EN.md
@@ -44,7 +44,8 @@ Open-CK/
 │   ├── README.md (Describes script functionality)
 │   └── README-EN.md (English version of the script functionality description)
 └── .gitignore
-'''
+```
+
 ## Dataset Acquisition
 This project provides a combustion dynamics dataset for machine learning and scientific research. Due to the large size of the dataset, it is stored on Google Drive.
 
