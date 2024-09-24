@@ -24,7 +24,9 @@ __Open-CK__
 
 <br><br>
 
+
 ## 项目结构
+```
 Open-CK/
 ├── README.md
 ├── README-EN.md
@@ -43,6 +45,7 @@ Open-CK/
 │   ├── README.md (描述脚本功能)
 │   └── README-EN.md (脚本功能的英文版描述)
 └── .gitignore
+```
 
 ## 获取数据集
 这个项目提供了一个燃烧动力学数据集，用于燃烧动力学的机器学习和科学研究。由于数据集过大，数据存储在Google Drive上。
