@@ -1,4 +1,4 @@
-[**中文说明**](README.md) | [**English**](README_EN.md)
+[**中文说明**](README.md) | [**English**](README-EN.md)
 
 <p align="center">
     <br>

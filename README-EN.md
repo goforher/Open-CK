@@ -1,4 +1,4 @@
-[**Chinese Documentation**](README.md) | [**English**](README_EN.md)
+[**Chinese Documentation**](README.md) | [**English**](README-EN.md)
 
 <p align="center">
     <br>
