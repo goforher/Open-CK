@@ -18,10 +18,13 @@ Open-CK 数据集是一个专为燃烧动力学的机器学习和科学研究而
 __Open-CK__
 <p align="center">
     <br>
-    <img src="image/Fire_bench.pdf" width="400" />
+    <img src="image/Fire_bench.png" width="400" />
     <br>
 <p>
-## 项目简介
+
+<br><br>
+
+## 获取数据集
 这个项目提供了一个燃烧动力学数据集，用于燃烧动力学的机器学习和科学研究。由于数据集过大，数据存储在Google Drive上。
 
 ## 数据集描述
@@ -30,7 +33,7 @@ __Open-CK__
 ## 工作流程
 <p align="center">
     <br>
-    <img src="image/workflow.pdf" width="400" />
+    <img src="image/workflow.png" width="400" />
     <br>
 <p>
 
