@@ -2,7 +2,7 @@
 
 <p align="center">
     <br>
-    <img src="image/tag1.png" width="400" />
+    <img src="image/tag2.png" width="400" />
     <br>
 <p>
 <br>
