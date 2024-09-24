@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-        <a href="https://www.modelscope.cn/models?name=clip&tasks=multi-modal-embedding">ModelScope</a>&nbsp ｜ &nbsp<a href="https://www.modelscope.cn/studios/damo/chinese_clip_applications/summary">Demo</a>&nbsp ｜ &nbsp<a href="https://arxiv.org/abs/2211.01335">Paper</a>
+        <a href="https://www.modelscope.cn/">ModelScope</a>&nbsp ｜ &nbsp<a href="https://www.baidu.com">Demo</a>&nbsp ｜ &nbsp<a href="https://www.baidu.com">Paper</a>
 </p>
 <br><br>
 
@@ -23,6 +23,26 @@ __Open-CK__
 <p>
 
 <br><br>
+
+## 项目结构
+Open-CK/
+├── README.md
+├── README-EN.md
+├── LICENSE
+├── dataset/
+│   └── README.md (描述数据集的存储位置以及特性)
+├── rawdata/
+│   ├── README.md (描述原始数据的特性)
+│   └── README-EN.md (原始数据的特性的英文描述)
+├── image/
+│   └── images
+├── script/
+│   ├── csv2npy.py (csv文件转换为npy文件的脚本)
+│   ├── imgshow.py (数据集可视化脚本)
+│   ├── readData.py (读取npy文件脚本)
+│   ├── README.md (描述脚本功能)
+│   └── README-EN.md (脚本功能的英文版描述)
+└── .gitignore
 
 ## 获取数据集
 这个项目提供了一个燃烧动力学数据集，用于燃烧动力学的机器学习和科学研究。由于数据集过大，数据存储在Google Drive上。
