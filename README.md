@@ -63,6 +63,3 @@ The dataset can be downloaded from the following link:
 
 ## Terms of Use
 Please refer to the [LICENSE](./LICENSE) file for terms of use.
-
-## Contribution
-Contributions are welcome! Please see [contribution_guide.md](./documentation/contribution_guide.md).
