@@ -26,7 +26,24 @@ __Open-CK__
 
 ## Project Structure
 '''
-Open-CK/ ├── README.md ├── README-EN.md ├── LICENSE ├── dataset/ │ └── README.md (Describes the storage location and characteristics of the dataset) ├── rawdata/ │ ├── README.md (Describes the characteristics of the raw data) │ └── README-EN.md (English description of the raw data characteristics) ├── image/ │ └── images ├── script/ │ ├── csv2npy.py (Script to convert CSV files to NP arrays) │ ├── imgshow.py (Dataset visualization script) │ ├── readData.py (Script to read NP arrays) │ ├── README.md (Describes script functionality) │ └── README-EN.md (English version of the script functionality description) └── .gitignore
+Open-CK/
+├── README.md
+├── README-EN.md
+├── LICENSE
+├── dataset/
+│   └── README.md (Describes the storage location and characteristics of the dataset)
+├── rawdata/
+│   ├── README.md (Describes the characteristics of the raw data)
+│   └── README-EN.md (English description of the raw data characteristics)
+├── image/
+│   └── images
+├── script/
+│   ├── csv2npy.py (Script to convert CSV files to NP arrays)
+│   ├── imgshow.py (Dataset visualization script)
+│   ├── readData.py (Script to read NP arrays)
+│   ├── README.md (Describes script functionality)
+│   └── README-EN.md (English version of the script functionality description)
+└── .gitignore
 '''
 ## Dataset Acquisition
 This project provides a combustion dynamics dataset for machine learning and scientific research. Due to the large size of the dataset, it is stored on Google Drive.
