@@ -19,9 +19,12 @@
 | TIS | Pres | 20mx20m | 40x40 | 2 | 350 |
 
 
-# 数据集可视化
+# Dataset Visualization
 <p align="center">
     <br>
-    <img src="image/10MW-3fire-2windDirection-1ms.png"/>
+    <img src="image/10MW-3fire-2windDirection-3ms.png"/>
     <br>
 <p>
+
+# Download
+<a href="https://drive.google.com/drive/folders/1kd6z_HsaO_YHdOMjFVp59SORWlGwL3Jb?usp=sharing">Open-CK</a>&nbsp ｜ &nbsp
